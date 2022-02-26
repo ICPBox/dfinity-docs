@@ -1,0 +1,6 @@
+[book]
+authors = ["famouscat8"]
+language = "en"
+multilingual = false
+src = "src"
+title = "dfinity中文文档"
